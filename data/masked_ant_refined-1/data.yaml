@@ -1,0 +1,12 @@
+names:
+- ant
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: masked_ant_refined
+  url: https://universe.roboflow.com/dronedogs-80gkq/masked_ant_refined/dataset/1
+  version: 1
+  workspace: dronedogs-80gkq
+test: test/images
+train: train/images
+val: valid/images
