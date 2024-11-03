@@ -14,7 +14,7 @@ cd computervision-recipes
 conda env create -f environment.yml
 ```
 
-Additional requires libraries:
+Additional required libraries:
 - os
 - opencv-python
 - ipython
