@@ -3,7 +3,7 @@ import subprocess
 
 
 """""
-Collection of all functions related to dealing with images and videos
+Collection of all functions related to images and videos
 """
 
 def get_video_creation_time(path):

@@ -19,8 +19,6 @@ process_image() {
 # Export the function so that parallel can access it
 export -f process_image
 
-# model_path="/data/models-yolov8/blue_ants_refined/300epochs8batchsize8x/best.pt"
-
 # Output directory
 output_dir="/home/nathan/"
 

@@ -18,3 +18,6 @@ Additional requires libraries:
 - os
 - opencv-python
 - ipython
+
+To run `parallel_run.sh`, in the command line, go to folder where the file is, and run `./parallel_run.sh`
+You may change the parameters and their values in the `parallel_run.sh` according to your needs.
