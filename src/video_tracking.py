@@ -4,6 +4,7 @@ import sys
 import cv2
 import pandas as pd
 import math
+
 from ultralytics import YOLO
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from utils.vision_utils import get_video_creation_time, extract_and_convert_create_date
@@ -11,16 +12,15 @@ from utils.vision_utils import get_video_creation_time, extract_and_convert_crea
 def analyze_and_save_ants_movements(model_path, masked_path, output_directory, save_excel=False, save_video=False):
     # Load the YOLO model
     model = YOLO(model_path)
-
     # Set up video capture
     cap = cv2.VideoCapture(masked_path)
 
     # Extract video name and construct output paths
     video_name = os.path.basename(masked_path)
     parent_dir = os.path.dirname(masked_path)
-    season = parent_dir.split('/')[-3]
-    location = parent_dir.split('/')[-2]
-    camera = parent_dir.split('/')[-1]
+    # season = parent_dir.split('/')[-3]
+    # location = parent_dir.split('/')[-2]
+    # camera = parent_dir.split('/')[-1]
     excel_filename = f"{video_name.split('.')[0]}_object_tracking_results.xlsx"
     output_excel_path = os.path.join(output_directory, excel_filename)
     output_video_filename = f"{video_name.split('.')[0]}_detections.mov"
@@ -158,8 +158,13 @@ def analyze_and_save_ants_movements(model_path, masked_path, output_directory, s
 
 
 if __name__ == "__main__":
-    analyze_and_save_ants_movements('/data/models-yolov8/blue_ants_refined/300epochs8batchsize8x/best.pt', "/data/ants_example/masked_WSCT6761.mov", "/home/nathan/", True, True)
-    analyze_and_save_ants_movements('/data/models-yolov8/blue_ants_refined/300epochs8batchsize8x/best.pt', "/data/ants_example/masked_WSCT9146.mov", "/home/nathan/", True, True)
+    # example for using the code in case of just running the file
+    # analyze_and_save_ants_movements('/path/to/model.pt', "/path/to/video.mov", "/output/dir/")
+
+    # example for using the code in case of parallel running
+    # video_path = sys.argv[1]
+    # output_dir = sys.argv[2]
+    # analyze_and_save_ants_movements('/path/to/model.pt', video_path, output_dir)
 
 
 

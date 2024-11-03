@@ -1,0 +1,2431 @@
+Processing file: /data/ants_example/masked_WSCT6761.mov with output directory: /home/nathan/
+Error processing date: time data '' does not match format '%Y:%m:%d %H:%M:%S'
+Results have been saved to /home/nathan/masked_WSCT6761_object_tracking_results.xlsx
+Annotated video has been saved to /home/nathan/masked_WSCT6761_detections.mov
+
+0: 544x1024 3 ants, 29.7ms
+Speed: 9.4ms preprocess, 29.7ms inference, 1.9ms postprocess per image at shape (1, 3, 544, 1024)
+qt.qpa.xcb: XKeyboard extension not present on the X server
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+QObject::moveToThread: Current thread (0xc9605fa0) is not the object's thread (0xc9763510).
+Cannot move to target thread (0xc9605fa0)
+
+qt.qpa.xcb: QXcbConnection: XCB error: 2 (BadValue), sequence: 223, resource id: 8, major code: 53 (CreatePixmap), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 2 (BadValue), sequence: 225, resource id: 32, major code: 53 (CreatePixmap), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 4 (BadPixmap), sequence: 226, resource id: 176160777, major code: 54 (FreePixmap), minor code: 0
+
+0: 544x1024 2 ants, 27.4ms
+Speed: 5.7ms preprocess, 27.4ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 2 ants, 27.8ms
+Speed: 4.8ms preprocess, 27.8ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 27.9ms
+Speed: 5.4ms preprocess, 27.9ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 2 ants, 28.3ms
+Speed: 7.2ms preprocess, 28.3ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 2 ants, 27.6ms
+Speed: 5.3ms preprocess, 27.6ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 27.7ms
+Speed: 5.3ms preprocess, 27.7ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 27.7ms
+Speed: 5.3ms preprocess, 27.7ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 28.5ms
+Speed: 3.9ms preprocess, 28.5ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 27.6ms
+Speed: 6.7ms preprocess, 27.6ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 28.0ms
+Speed: 5.3ms preprocess, 28.0ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 28.9ms
+Speed: 5.2ms preprocess, 28.9ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 28.3ms
+Speed: 5.2ms preprocess, 28.3ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 27.9ms
+Speed: 5.2ms preprocess, 27.9ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 27.6ms
+Speed: 5.3ms preprocess, 27.6ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 27.2ms
+Speed: 6.0ms preprocess, 27.2ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 27.4ms
+Speed: 5.2ms preprocess, 27.4ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 27.7ms
+Speed: 5.2ms preprocess, 27.7ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 28.5ms
+Speed: 5.3ms preprocess, 28.5ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 28.2ms
+Speed: 5.2ms preprocess, 28.2ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 27.8ms
+Speed: 6.1ms preprocess, 27.8ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 28.0ms
+Speed: 5.6ms preprocess, 28.0ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 28.2ms
+Speed: 5.6ms preprocess, 28.2ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 27.9ms
+Speed: 5.5ms preprocess, 27.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 27.8ms
+Speed: 5.3ms preprocess, 27.8ms inference, 2.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 27.9ms
+Speed: 5.4ms preprocess, 27.9ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 27.7ms
+Speed: 5.3ms preprocess, 27.7ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 27.5ms
+Speed: 5.3ms preprocess, 27.5ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 28.1ms
+Speed: 5.1ms preprocess, 28.1ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 28.2ms
+Speed: 5.4ms preprocess, 28.2ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 28.2ms
+Speed: 5.4ms preprocess, 28.2ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 27.8ms
+Speed: 5.8ms preprocess, 27.8ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 27.6ms
+Speed: 5.4ms preprocess, 27.6ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 28.6ms
+Speed: 5.4ms preprocess, 28.6ms inference, 1.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 27.4ms
+Speed: 6.1ms preprocess, 27.4ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 28.1ms
+Speed: 5.9ms preprocess, 28.1ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 27.6ms
+Speed: 5.3ms preprocess, 27.6ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 28.0ms
+Speed: 5.2ms preprocess, 28.0ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 27.9ms
+Speed: 6.1ms preprocess, 27.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 26.9ms
+Speed: 5.0ms preprocess, 26.9ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 27.7ms
+Speed: 6.1ms preprocess, 27.7ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 27.9ms
+Speed: 5.2ms preprocess, 27.9ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 26.9ms
+Speed: 5.3ms preprocess, 26.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 39.8ms
+Speed: 6.9ms preprocess, 39.8ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 51.8ms
+Speed: 5.4ms preprocess, 51.8ms inference, 9.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 40.0ms
+Speed: 5.2ms preprocess, 40.0ms inference, 20.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 49.5ms
+Speed: 5.3ms preprocess, 49.5ms inference, 11.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 51.4ms
+Speed: 5.3ms preprocess, 51.4ms inference, 9.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 44.5ms
+Speed: 5.2ms preprocess, 44.5ms inference, 15.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 54.9ms
+Speed: 7.8ms preprocess, 54.9ms inference, 6.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 39.7ms
+Speed: 5.2ms preprocess, 39.7ms inference, 19.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 56.6ms
+Speed: 5.3ms preprocess, 56.6ms inference, 4.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 49.1ms
+Speed: 5.3ms preprocess, 49.1ms inference, 10.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 55.8ms
+Speed: 5.5ms preprocess, 55.8ms inference, 7.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 57.3ms
+Speed: 5.5ms preprocess, 57.3ms inference, 1.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 57.8ms
+Speed: 5.1ms preprocess, 57.8ms inference, 2.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 48.7ms
+Speed: 5.0ms preprocess, 48.7ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 53.0ms
+Speed: 7.8ms preprocess, 53.0ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 56.2ms
+Speed: 7.4ms preprocess, 56.2ms inference, 1.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 55.5ms
+Speed: 7.0ms preprocess, 55.5ms inference, 1.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 56.2ms
+Speed: 7.1ms preprocess, 56.2ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 55.5ms
+Speed: 6.3ms preprocess, 55.5ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 57.0ms
+Speed: 5.3ms preprocess, 57.0ms inference, 4.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 37.1ms
+Speed: 5.3ms preprocess, 37.1ms inference, 20.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 44.4ms
+Speed: 5.4ms preprocess, 44.4ms inference, 15.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 44.4ms
+Speed: 5.4ms preprocess, 44.4ms inference, 15.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 51.9ms
+Speed: 5.2ms preprocess, 51.9ms inference, 9.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 52.1ms
+Speed: 5.6ms preprocess, 52.1ms inference, 9.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 54.7ms
+Speed: 5.4ms preprocess, 54.7ms inference, 6.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 9 ants, 49.3ms
+Speed: 5.6ms preprocess, 49.3ms inference, 10.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 9 ants, 59.9ms
+Speed: 6.7ms preprocess, 59.9ms inference, 2.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 9 ants, 54.4ms
+Speed: 5.5ms preprocess, 54.4ms inference, 6.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 55.3ms
+Speed: 5.1ms preprocess, 55.3ms inference, 7.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 58.3ms
+Speed: 7.5ms preprocess, 58.3ms inference, 1.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 9 ants, 49.8ms
+Speed: 5.1ms preprocess, 49.8ms inference, 11.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 9 ants, 52.2ms
+Speed: 5.1ms preprocess, 52.2ms inference, 8.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 57.0ms
+Speed: 4.7ms preprocess, 57.0ms inference, 4.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 55.2ms
+Speed: 4.5ms preprocess, 55.2ms inference, 6.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 55.5ms
+Speed: 5.4ms preprocess, 55.5ms inference, 6.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 9 ants, 39.7ms
+Speed: 5.3ms preprocess, 39.7ms inference, 19.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 42.0ms
+Speed: 5.7ms preprocess, 42.0ms inference, 17.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 9 ants, 52.4ms
+Speed: 6.8ms preprocess, 52.4ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 9 ants, 60.7ms
+Speed: 5.9ms preprocess, 60.7ms inference, 2.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 9 ants, 49.1ms
+Speed: 5.4ms preprocess, 49.1ms inference, 10.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 9 ants, 52.3ms
+Speed: 5.5ms preprocess, 52.3ms inference, 8.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 51.7ms
+Speed: 5.3ms preprocess, 51.7ms inference, 8.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 52.0ms
+Speed: 5.2ms preprocess, 52.0ms inference, 9.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 42.0ms
+Speed: 5.3ms preprocess, 42.0ms inference, 17.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 47.0ms
+Speed: 5.3ms preprocess, 47.0ms inference, 13.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 51.7ms
+Speed: 5.2ms preprocess, 51.7ms inference, 9.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 42.0ms
+Speed: 5.2ms preprocess, 42.0ms inference, 17.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 58.0ms
+Speed: 5.7ms preprocess, 58.0ms inference, 1.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 54.3ms
+Speed: 5.3ms preprocess, 54.3ms inference, 6.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 44.4ms
+Speed: 5.3ms preprocess, 44.4ms inference, 15.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 46.9ms
+Speed: 5.2ms preprocess, 46.9ms inference, 13.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 44.4ms
+Speed: 5.5ms preprocess, 44.4ms inference, 15.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 44.6ms
+Speed: 5.2ms preprocess, 44.6ms inference, 15.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 47.0ms
+Speed: 5.2ms preprocess, 47.0ms inference, 13.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 51.5ms
+Speed: 4.7ms preprocess, 51.5ms inference, 8.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 44.7ms
+Speed: 4.5ms preprocess, 44.7ms inference, 15.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 57.5ms
+Speed: 5.2ms preprocess, 57.5ms inference, 4.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 51.9ms
+Speed: 5.4ms preprocess, 51.9ms inference, 9.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 55.7ms
+Speed: 5.6ms preprocess, 55.7ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 57.4ms
+Speed: 5.3ms preprocess, 57.4ms inference, 5.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 52.8ms
+Speed: 5.3ms preprocess, 52.8ms inference, 8.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 49.4ms
+Speed: 5.2ms preprocess, 49.4ms inference, 11.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 49.3ms
+Speed: 5.2ms preprocess, 49.3ms inference, 10.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 57.2ms
+Speed: 5.2ms preprocess, 57.2ms inference, 5.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 52.1ms
+Speed: 5.4ms preprocess, 52.1ms inference, 9.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 54.3ms
+Speed: 5.2ms preprocess, 54.3ms inference, 6.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 46.8ms
+Speed: 5.4ms preprocess, 46.8ms inference, 13.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 2 ants, 51.7ms
+Speed: 5.6ms preprocess, 51.7ms inference, 8.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 2 ants, 47.6ms
+Speed: 5.4ms preprocess, 47.6ms inference, 13.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 2 ants, 42.1ms
+Speed: 5.2ms preprocess, 42.1ms inference, 17.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 37.2ms
+Speed: 5.5ms preprocess, 37.2ms inference, 20.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 37.2ms
+Speed: 5.3ms preprocess, 37.2ms inference, 20.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 39.8ms
+Speed: 5.4ms preprocess, 39.8ms inference, 19.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 49.4ms
+Speed: 5.5ms preprocess, 49.4ms inference, 11.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 49.4ms
+Speed: 5.3ms preprocess, 49.4ms inference, 11.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 47.2ms
+Speed: 5.2ms preprocess, 47.2ms inference, 13.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 52.3ms
+Speed: 5.4ms preprocess, 52.3ms inference, 9.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 55.2ms
+Speed: 5.8ms preprocess, 55.2ms inference, 6.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 58.7ms
+Speed: 7.2ms preprocess, 58.7ms inference, 1.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 42.0ms
+Speed: 5.3ms preprocess, 42.0ms inference, 18.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 49.1ms
+Speed: 5.2ms preprocess, 49.1ms inference, 10.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 44.5ms
+Speed: 5.3ms preprocess, 44.5ms inference, 15.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 34.7ms
+Speed: 7.5ms preprocess, 34.7ms inference, 20.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 47.3ms
+Speed: 5.3ms preprocess, 47.3ms inference, 13.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 49.8ms
+Speed: 5.0ms preprocess, 49.8ms inference, 10.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 51.8ms
+Speed: 5.4ms preprocess, 51.8ms inference, 8.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 49.4ms
+Speed: 5.3ms preprocess, 49.4ms inference, 11.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 47.1ms
+Speed: 4.5ms preprocess, 47.1ms inference, 14.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 49.2ms
+Speed: 5.2ms preprocess, 49.2ms inference, 10.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 2 ants, 54.0ms
+Speed: 5.1ms preprocess, 54.0ms inference, 6.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 2 ants, 55.0ms
+Speed: 5.3ms preprocess, 55.0ms inference, 6.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 44.5ms
+Speed: 5.6ms preprocess, 44.5ms inference, 15.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 52.2ms
+Speed: 5.2ms preprocess, 52.2ms inference, 9.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 57.6ms
+Speed: 5.3ms preprocess, 57.6ms inference, 5.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 49.4ms
+Speed: 5.3ms preprocess, 49.4ms inference, 10.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 52.4ms
+Speed: 5.5ms preprocess, 52.4ms inference, 9.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 47.3ms
+Speed: 5.6ms preprocess, 47.3ms inference, 13.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 39.6ms
+Speed: 5.2ms preprocess, 39.6ms inference, 19.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 39.6ms
+Speed: 5.3ms preprocess, 39.6ms inference, 19.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 47.1ms
+Speed: 5.0ms preprocess, 47.1ms inference, 13.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 42.1ms
+Speed: 5.2ms preprocess, 42.1ms inference, 17.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 42.4ms
+Speed: 5.2ms preprocess, 42.4ms inference, 17.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 39.6ms
+Speed: 5.3ms preprocess, 39.6ms inference, 19.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 49.5ms
+Speed: 7.2ms preprocess, 49.5ms inference, 10.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 47.2ms
+Speed: 5.3ms preprocess, 47.2ms inference, 13.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 55.2ms
+Speed: 5.2ms preprocess, 55.2ms inference, 6.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 47.2ms
+Speed: 5.0ms preprocess, 47.2ms inference, 13.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 54.7ms
+Speed: 5.3ms preprocess, 54.7ms inference, 6.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 52.1ms
+Speed: 5.9ms preprocess, 52.1ms inference, 9.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 45.0ms
+Speed: 5.6ms preprocess, 45.0ms inference, 15.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 50.1ms
+Speed: 5.2ms preprocess, 50.1ms inference, 11.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 54.9ms
+Speed: 5.4ms preprocess, 54.9ms inference, 6.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 50.1ms
+Speed: 5.0ms preprocess, 50.1ms inference, 11.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 54.9ms
+Speed: 5.1ms preprocess, 54.9ms inference, 6.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 47.1ms
+Speed: 5.3ms preprocess, 47.1ms inference, 13.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 40.3ms
+Speed: 5.2ms preprocess, 40.3ms inference, 20.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 39.7ms
+Speed: 6.0ms preprocess, 39.7ms inference, 20.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 54.3ms
+Speed: 5.3ms preprocess, 54.3ms inference, 6.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 52.5ms
+Speed: 5.1ms preprocess, 52.5ms inference, 9.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 55.0ms
+Speed: 5.6ms preprocess, 55.0ms inference, 7.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 55.4ms
+Speed: 5.2ms preprocess, 55.4ms inference, 6.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 52.2ms
+Speed: 5.5ms preprocess, 52.2ms inference, 9.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 55.2ms
+Speed: 5.2ms preprocess, 55.2ms inference, 6.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 58.6ms
+Speed: 6.4ms preprocess, 58.6ms inference, 1.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 57.5ms
+Speed: 5.6ms preprocess, 57.5ms inference, 4.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 54.4ms
+Speed: 4.4ms preprocess, 54.4ms inference, 6.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 40.7ms
+Speed: 4.5ms preprocess, 40.7ms inference, 20.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 52.5ms
+Speed: 5.3ms preprocess, 52.5ms inference, 9.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 56.0ms
+Speed: 6.0ms preprocess, 56.0ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 45.2ms
+Speed: 5.4ms preprocess, 45.2ms inference, 15.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 34.7ms
+Speed: 5.2ms preprocess, 34.7ms inference, 20.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 42.6ms
+Speed: 5.3ms preprocess, 42.6ms inference, 17.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 47.3ms
+Speed: 5.3ms preprocess, 47.3ms inference, 13.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 42.4ms
+Speed: 5.3ms preprocess, 42.4ms inference, 17.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 3 ants, 52.6ms
+Speed: 5.3ms preprocess, 52.6ms inference, 9.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 2 ants, 47.3ms
+Speed: 5.3ms preprocess, 47.3ms inference, 13.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 44.9ms
+Speed: 5.3ms preprocess, 44.9ms inference, 15.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 55.7ms
+Speed: 5.3ms preprocess, 55.7ms inference, 7.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 52.2ms
+Speed: 6.6ms preprocess, 52.2ms inference, 9.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 55.1ms
+Speed: 5.5ms preprocess, 55.1ms inference, 6.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 57.6ms
+Speed: 5.2ms preprocess, 57.6ms inference, 4.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 50.0ms
+Speed: 5.2ms preprocess, 50.0ms inference, 11.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 54.9ms
+Speed: 5.6ms preprocess, 54.9ms inference, 6.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 45.2ms
+Speed: 5.2ms preprocess, 45.2ms inference, 16.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 4 ants, 52.3ms
+Speed: 5.3ms preprocess, 52.3ms inference, 9.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 47.4ms
+Speed: 5.2ms preprocess, 47.4ms inference, 13.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 50.0ms
+Speed: 5.2ms preprocess, 50.0ms inference, 11.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 52.3ms
+Speed: 5.8ms preprocess, 52.3ms inference, 9.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 44.7ms
+Speed: 5.2ms preprocess, 44.7ms inference, 15.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 5 ants, 55.2ms
+Speed: 5.4ms preprocess, 55.2ms inference, 7.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 49.6ms
+Speed: 5.3ms preprocess, 49.6ms inference, 11.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 49.3ms
+Speed: 5.7ms preprocess, 49.3ms inference, 11.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 52.2ms
+Speed: 5.4ms preprocess, 52.2ms inference, 9.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 47.0ms
+Speed: 5.2ms preprocess, 47.0ms inference, 12.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 49.9ms
+Speed: 5.2ms preprocess, 49.9ms inference, 11.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 47.1ms
+Speed: 5.0ms preprocess, 47.1ms inference, 13.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 55.0ms
+Speed: 5.2ms preprocess, 55.0ms inference, 7.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 51.9ms
+Speed: 5.2ms preprocess, 51.9ms inference, 8.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 40.3ms
+Speed: 5.4ms preprocess, 40.3ms inference, 20.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 52.1ms
+Speed: 5.2ms preprocess, 52.1ms inference, 9.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 52.6ms
+Speed: 4.9ms preprocess, 52.6ms inference, 9.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 56.1ms
+Speed: 6.9ms preprocess, 56.1ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 51.7ms
+Speed: 5.2ms preprocess, 51.7ms inference, 9.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 44.9ms
+Speed: 5.4ms preprocess, 44.9ms inference, 15.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 39.9ms
+Speed: 5.4ms preprocess, 39.9ms inference, 19.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 39.7ms
+Speed: 5.2ms preprocess, 39.7ms inference, 19.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 34.9ms
+Speed: 5.2ms preprocess, 34.9ms inference, 20.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 37.4ms
+Speed: 5.3ms preprocess, 37.4ms inference, 20.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 44.9ms
+Speed: 5.2ms preprocess, 44.9ms inference, 15.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 49.6ms
+Speed: 5.2ms preprocess, 49.6ms inference, 11.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 42.2ms
+Speed: 5.2ms preprocess, 42.2ms inference, 18.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 34.7ms
+Speed: 5.3ms preprocess, 34.7ms inference, 20.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 42.3ms
+Speed: 5.6ms preprocess, 42.3ms inference, 18.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 52.1ms
+Speed: 5.4ms preprocess, 52.1ms inference, 9.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 42.3ms
+Speed: 5.2ms preprocess, 42.3ms inference, 17.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 52.3ms
+Speed: 5.4ms preprocess, 52.3ms inference, 9.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 49.8ms
+Speed: 4.8ms preprocess, 49.8ms inference, 11.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 52.4ms
+Speed: 5.2ms preprocess, 52.4ms inference, 9.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 42.9ms
+Speed: 5.2ms preprocess, 42.9ms inference, 18.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 46.8ms
+Speed: 5.3ms preprocess, 46.8ms inference, 13.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 52.4ms
+Speed: 5.3ms preprocess, 52.4ms inference, 9.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 47.4ms
+Speed: 5.2ms preprocess, 47.4ms inference, 13.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 49.9ms
+Speed: 5.5ms preprocess, 49.9ms inference, 11.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 55.0ms
+Speed: 5.2ms preprocess, 55.0ms inference, 7.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 50.0ms
+Speed: 5.3ms preprocess, 50.0ms inference, 11.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 49.8ms
+Speed: 5.2ms preprocess, 49.8ms inference, 11.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 45.0ms
+Speed: 5.2ms preprocess, 45.0ms inference, 15.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 52.2ms
+Speed: 5.3ms preprocess, 52.2ms inference, 9.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 34.9ms
+Speed: 5.2ms preprocess, 34.9ms inference, 20.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 27.2ms
+Speed: 5.3ms preprocess, 27.2ms inference, 16.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 29.9ms
+Speed: 5.2ms preprocess, 29.9ms inference, 21.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 39.8ms
+Speed: 5.2ms preprocess, 39.8ms inference, 20.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 44.9ms
+Speed: 5.2ms preprocess, 44.9ms inference, 15.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 50.0ms
+Speed: 5.2ms preprocess, 50.0ms inference, 10.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 47.7ms
+Speed: 5.2ms preprocess, 47.7ms inference, 13.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 44.7ms
+Speed: 5.1ms preprocess, 44.7ms inference, 15.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 50.0ms
+Speed: 5.4ms preprocess, 50.0ms inference, 11.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 47.0ms
+Speed: 5.3ms preprocess, 47.0ms inference, 13.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 49.6ms
+Speed: 5.2ms preprocess, 49.6ms inference, 11.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 47.2ms
+Speed: 5.2ms preprocess, 47.2ms inference, 13.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 57.3ms
+Speed: 5.5ms preprocess, 57.3ms inference, 4.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 39.9ms
+Speed: 5.0ms preprocess, 39.9ms inference, 20.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 47.6ms
+Speed: 5.3ms preprocess, 47.6ms inference, 13.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 37.8ms
+Speed: 5.2ms preprocess, 37.8ms inference, 20.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 40.2ms
+Speed: 5.2ms preprocess, 40.2ms inference, 19.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 27.5ms
+Speed: 5.3ms preprocess, 27.5ms inference, 20.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 27.2ms
+Speed: 5.2ms preprocess, 27.2ms inference, 18.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 27.1ms
+Speed: 5.2ms preprocess, 27.1ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 27.2ms
+Speed: 7.2ms preprocess, 27.2ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 27.0ms
+Speed: 5.2ms preprocess, 27.0ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 28.1ms
+Speed: 5.2ms preprocess, 28.1ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 27.4ms
+Speed: 5.2ms preprocess, 27.4ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 30.5ms
+Speed: 5.2ms preprocess, 30.5ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 56.1ms
+Speed: 6.7ms preprocess, 56.1ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 42.3ms
+Speed: 5.1ms preprocess, 42.3ms inference, 17.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 44.7ms
+Speed: 5.9ms preprocess, 44.7ms inference, 15.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 47.1ms
+Speed: 5.1ms preprocess, 47.1ms inference, 13.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 7 ants, 44.8ms
+Speed: 5.2ms preprocess, 44.8ms inference, 16.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 47.0ms
+Speed: 5.2ms preprocess, 47.0ms inference, 13.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 39.7ms
+Speed: 5.1ms preprocess, 39.7ms inference, 19.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 34.8ms
+Speed: 5.5ms preprocess, 34.8ms inference, 20.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 44.5ms
+Speed: 4.9ms preprocess, 44.5ms inference, 15.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 47.4ms
+Speed: 5.1ms preprocess, 47.4ms inference, 14.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 44.8ms
+Speed: 5.1ms preprocess, 44.8ms inference, 15.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 42.3ms
+Speed: 5.1ms preprocess, 42.3ms inference, 18.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 44.6ms
+Speed: 5.1ms preprocess, 44.6ms inference, 15.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 40.1ms
+Speed: 5.1ms preprocess, 40.1ms inference, 20.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 8 ants, 40.1ms
+Speed: 5.2ms preprocess, 40.1ms inference, 19.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 6 ants, 47.0ms
+Speed: 5.1ms preprocess, 47.0ms inference, 13.3ms postprocess per image at shape (1, 3, 544, 1024)
+Processing file: /data/ants_example/masked_WSCT9146.mov with output directory: /home/nathan/
+Error processing date: time data '' does not match format '%Y:%m:%d %H:%M:%S'
+Results have been saved to /home/nathan/masked_WSCT9146_object_tracking_results.xlsx
+Annotated video has been saved to /home/nathan/masked_WSCT9146_detections.mov
+
+0: 544x1024 12 ants, 46.5ms
+Speed: 21.9ms preprocess, 46.5ms inference, 4.2ms postprocess per image at shape (1, 3, 544, 1024)
+qt.qpa.xcb: XKeyboard extension not present on the X server
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+QObject::moveToThread: Current thread (0xad1c6380) is not the object's thread (0xce4760e0).
+Cannot move to target thread (0xad1c6380)
+
+qt.qpa.xcb: QXcbConnection: XCB error: 2 (BadValue), sequence: 221, resource id: 4, major code: 53 (CreatePixmap), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 4 (BadPixmap), sequence: 222, resource id: 155189249, major code: 54 (FreePixmap), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 2 (BadValue), sequence: 223, resource id: 8, major code: 53 (CreatePixmap), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 4 (BadPixmap), sequence: 224, resource id: 155189256, major code: 54 (FreePixmap), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 2 (BadValue), sequence: 225, resource id: 32, major code: 53 (CreatePixmap), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 4 (BadPixmap), sequence: 226, resource id: 155189257, major code: 54 (FreePixmap), minor code: 0
+
+0: 544x1024 12 ants, 27.3ms
+Speed: 5.1ms preprocess, 27.3ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 18 ants, 26.9ms
+Speed: 5.3ms preprocess, 26.9ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 18 ants, 27.0ms
+Speed: 5.2ms preprocess, 27.0ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 20 ants, 27.0ms
+Speed: 5.3ms preprocess, 27.0ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 20 ants, 27.0ms
+Speed: 5.3ms preprocess, 27.0ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 22 ants, 27.1ms
+Speed: 5.6ms preprocess, 27.1ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 23 ants, 27.0ms
+Speed: 5.4ms preprocess, 27.0ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 28 ants, 26.8ms
+Speed: 5.5ms preprocess, 26.8ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 28 ants, 26.9ms
+Speed: 5.0ms preprocess, 26.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 28 ants, 26.9ms
+Speed: 5.9ms preprocess, 26.9ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 27 ants, 26.9ms
+Speed: 5.2ms preprocess, 26.9ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 26 ants, 26.9ms
+Speed: 5.0ms preprocess, 26.9ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 29 ants, 27.1ms
+Speed: 3.8ms preprocess, 27.1ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 33 ants, 27.1ms
+Speed: 5.3ms preprocess, 27.1ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 33 ants, 27.0ms
+Speed: 5.2ms preprocess, 27.0ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 33 ants, 26.9ms
+Speed: 5.2ms preprocess, 26.9ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 31 ants, 26.8ms
+Speed: 5.2ms preprocess, 26.8ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 33 ants, 26.8ms
+Speed: 5.8ms preprocess, 26.8ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 33 ants, 27.1ms
+Speed: 5.1ms preprocess, 27.1ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 33 ants, 27.1ms
+Speed: 5.5ms preprocess, 27.1ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 36 ants, 26.8ms
+Speed: 4.7ms preprocess, 26.8ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 37 ants, 26.9ms
+Speed: 5.0ms preprocess, 26.9ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 27.2ms
+Speed: 5.1ms preprocess, 27.2ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 37 ants, 27.0ms
+Speed: 5.2ms preprocess, 27.0ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 26.9ms
+Speed: 5.2ms preprocess, 26.9ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 27.0ms
+Speed: 5.2ms preprocess, 27.0ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 26.9ms
+Speed: 5.6ms preprocess, 26.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 27.2ms
+Speed: 5.1ms preprocess, 27.2ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 27.1ms
+Speed: 5.2ms preprocess, 27.1ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 27.1ms
+Speed: 5.2ms preprocess, 27.1ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 27.1ms
+Speed: 5.1ms preprocess, 27.1ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 27.0ms
+Speed: 5.2ms preprocess, 27.0ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 27.0ms
+Speed: 7.2ms preprocess, 27.0ms inference, 1.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 26.9ms
+Speed: 7.2ms preprocess, 26.9ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 26.9ms
+Speed: 5.3ms preprocess, 26.9ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 26.9ms
+Speed: 5.0ms preprocess, 26.9ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 27.1ms
+Speed: 4.8ms preprocess, 27.1ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 37 ants, 26.9ms
+Speed: 4.6ms preprocess, 26.9ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 26.8ms
+Speed: 5.5ms preprocess, 26.8ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 27.4ms
+Speed: 4.4ms preprocess, 27.4ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 27.2ms
+Speed: 4.5ms preprocess, 27.2ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 27.0ms
+Speed: 5.2ms preprocess, 27.0ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 35.0ms
+Speed: 4.8ms preprocess, 35.0ms inference, 20.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 53.2ms
+Speed: 6.8ms preprocess, 53.2ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 44.8ms
+Speed: 6.3ms preprocess, 44.8ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 50.9ms
+Speed: 5.9ms preprocess, 50.9ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 52.7ms
+Speed: 6.4ms preprocess, 52.7ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 46.3ms
+Speed: 5.8ms preprocess, 46.3ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 55.8ms
+Speed: 6.5ms preprocess, 55.8ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 44.1ms
+Speed: 6.7ms preprocess, 44.1ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 57.2ms
+Speed: 6.2ms preprocess, 57.2ms inference, 1.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 50.3ms
+Speed: 4.8ms preprocess, 50.3ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 57.1ms
+Speed: 7.1ms preprocess, 57.1ms inference, 2.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 56.8ms
+Speed: 4.9ms preprocess, 56.8ms inference, 4.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 57.2ms
+Speed: 5.5ms preprocess, 57.2ms inference, 4.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 44.7ms
+Speed: 4.9ms preprocess, 44.7ms inference, 15.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 51.8ms
+Speed: 5.2ms preprocess, 51.8ms inference, 9.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 55.3ms
+Speed: 5.1ms preprocess, 55.3ms inference, 6.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 54.5ms
+Speed: 5.2ms preprocess, 54.5ms inference, 6.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 55.3ms
+Speed: 5.2ms preprocess, 55.3ms inference, 6.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 54.5ms
+Speed: 5.3ms preprocess, 54.5ms inference, 6.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 57.8ms
+Speed: 9.4ms preprocess, 57.8ms inference, 2.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 41.8ms
+Speed: 6.3ms preprocess, 41.8ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 46.3ms
+Speed: 7.2ms preprocess, 46.3ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 48.2ms
+Speed: 6.4ms preprocess, 48.2ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 53.2ms
+Speed: 7.1ms preprocess, 53.2ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 53.3ms
+Speed: 7.4ms preprocess, 53.3ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 55.6ms
+Speed: 5.9ms preprocess, 55.6ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 50.3ms
+Speed: 5.7ms preprocess, 50.3ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 37 ants, 60.5ms
+Speed: 6.2ms preprocess, 60.5ms inference, 1.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 37 ants, 55.3ms
+Speed: 7.3ms preprocess, 55.3ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 56.8ms
+Speed: 6.7ms preprocess, 56.8ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 57.5ms
+Speed: 5.4ms preprocess, 57.5ms inference, 4.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 51.3ms
+Speed: 6.5ms preprocess, 51.3ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 53.2ms
+Speed: 6.2ms preprocess, 53.2ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 57.7ms
+Speed: 6.0ms preprocess, 57.7ms inference, 1.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 56.2ms
+Speed: 5.9ms preprocess, 56.2ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 55.9ms
+Speed: 6.9ms preprocess, 55.9ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 44.2ms
+Speed: 7.4ms preprocess, 44.2ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 46.0ms
+Speed: 5.6ms preprocess, 46.0ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 49.6ms
+Speed: 5.3ms preprocess, 49.6ms inference, 11.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 59.9ms
+Speed: 6.7ms preprocess, 59.9ms inference, 2.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 50.2ms
+Speed: 6.7ms preprocess, 50.2ms inference, 1.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 53.5ms
+Speed: 5.8ms preprocess, 53.5ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 52.9ms
+Speed: 7.0ms preprocess, 52.9ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 51.7ms
+Speed: 7.8ms preprocess, 51.7ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 46.0ms
+Speed: 6.2ms preprocess, 46.0ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 48.9ms
+Speed: 7.0ms preprocess, 48.9ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 53.1ms
+Speed: 7.2ms preprocess, 53.1ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 46.4ms
+Speed: 7.6ms preprocess, 46.4ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 57.3ms
+Speed: 5.1ms preprocess, 57.3ms inference, 4.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 55.2ms
+Speed: 7.0ms preprocess, 55.2ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 48.2ms
+Speed: 6.4ms preprocess, 48.2ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 48.7ms
+Speed: 6.5ms preprocess, 48.7ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 48.2ms
+Speed: 5.5ms preprocess, 48.2ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 36 ants, 46.5ms
+Speed: 6.5ms preprocess, 46.5ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 37 ants, 48.9ms
+Speed: 5.6ms preprocess, 48.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 37 ants, 52.5ms
+Speed: 6.2ms preprocess, 52.5ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 37 ants, 47.1ms
+Speed: 7.0ms preprocess, 47.1ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 58.4ms
+Speed: 6.5ms preprocess, 58.4ms inference, 1.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 53.2ms
+Speed: 6.3ms preprocess, 53.2ms inference, 1.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 56.4ms
+Speed: 5.5ms preprocess, 56.4ms inference, 7.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 58.3ms
+Speed: 5.1ms preprocess, 58.3ms inference, 1.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 54.0ms
+Speed: 6.7ms preprocess, 54.0ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 50.9ms
+Speed: 6.6ms preprocess, 50.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 50.5ms
+Speed: 6.7ms preprocess, 50.5ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 58.1ms
+Speed: 6.1ms preprocess, 58.1ms inference, 1.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 53.4ms
+Speed: 5.7ms preprocess, 53.4ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 55.0ms
+Speed: 6.0ms preprocess, 55.0ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 48.8ms
+Speed: 6.8ms preprocess, 48.8ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 52.9ms
+Speed: 7.0ms preprocess, 52.9ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 49.8ms
+Speed: 6.9ms preprocess, 49.8ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 46.6ms
+Speed: 6.1ms preprocess, 46.6ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 42.1ms
+Speed: 5.6ms preprocess, 42.1ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 41.8ms
+Speed: 8.3ms preprocess, 41.8ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 44.4ms
+Speed: 6.3ms preprocess, 44.4ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 51.1ms
+Speed: 5.9ms preprocess, 51.1ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 50.8ms
+Speed: 6.7ms preprocess, 50.8ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 48.9ms
+Speed: 7.2ms preprocess, 48.9ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 53.8ms
+Speed: 7.3ms preprocess, 53.8ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 56.3ms
+Speed: 7.3ms preprocess, 56.3ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 57.8ms
+Speed: 5.2ms preprocess, 57.8ms inference, 5.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 46.8ms
+Speed: 7.2ms preprocess, 46.8ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 50.1ms
+Speed: 6.4ms preprocess, 50.1ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 46.9ms
+Speed: 6.0ms preprocess, 46.9ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 39.2ms
+Speed: 6.2ms preprocess, 39.2ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 49.5ms
+Speed: 6.3ms preprocess, 49.5ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 51.2ms
+Speed: 6.1ms preprocess, 51.2ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 52.8ms
+Speed: 6.9ms preprocess, 52.8ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 46 ants, 50.9ms
+Speed: 9.3ms preprocess, 50.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 49.0ms
+Speed: 7.4ms preprocess, 49.0ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 50.5ms
+Speed: 5.8ms preprocess, 50.5ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 54.8ms
+Speed: 5.6ms preprocess, 54.8ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 56.0ms
+Speed: 6.7ms preprocess, 56.0ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 48.4ms
+Speed: 7.0ms preprocess, 48.4ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 53.6ms
+Speed: 5.5ms preprocess, 53.6ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 58.6ms
+Speed: 5.7ms preprocess, 58.6ms inference, 1.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 50.6ms
+Speed: 7.3ms preprocess, 50.6ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 53.7ms
+Speed: 6.7ms preprocess, 53.7ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 49.5ms
+Speed: 7.1ms preprocess, 49.5ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 43.7ms
+Speed: 6.2ms preprocess, 43.7ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 41.9ms
+Speed: 7.0ms preprocess, 41.9ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 48.7ms
+Speed: 6.0ms preprocess, 48.7ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 46.4ms
+Speed: 5.7ms preprocess, 46.4ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 47 ants, 44.8ms
+Speed: 5.7ms preprocess, 44.8ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 45.8ms
+Speed: 5.8ms preprocess, 45.8ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 50.8ms
+Speed: 6.7ms preprocess, 50.8ms inference, 2.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 47 ants, 48.9ms
+Speed: 5.4ms preprocess, 48.9ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 56.2ms
+Speed: 5.4ms preprocess, 56.2ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 49.0ms
+Speed: 6.5ms preprocess, 49.0ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 55.6ms
+Speed: 5.3ms preprocess, 55.6ms inference, 1.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 53.1ms
+Speed: 5.8ms preprocess, 53.1ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 46.6ms
+Speed: 10.4ms preprocess, 46.6ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 51.8ms
+Speed: 6.2ms preprocess, 51.8ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 56.0ms
+Speed: 6.6ms preprocess, 56.0ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 51.6ms
+Speed: 7.0ms preprocess, 51.6ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 55.8ms
+Speed: 5.9ms preprocess, 55.8ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 48.7ms
+Speed: 6.6ms preprocess, 48.7ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 42.8ms
+Speed: 7.0ms preprocess, 42.8ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 44.6ms
+Speed: 7.3ms preprocess, 44.6ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 55.1ms
+Speed: 5.0ms preprocess, 55.1ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 54.3ms
+Speed: 4.3ms preprocess, 54.3ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 56.1ms
+Speed: 4.9ms preprocess, 56.1ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 56.3ms
+Speed: 5.5ms preprocess, 56.3ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 53.6ms
+Speed: 5.2ms preprocess, 53.6ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 55.9ms
+Speed: 5.5ms preprocess, 55.9ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 57.6ms
+Speed: 3.6ms preprocess, 57.6ms inference, 4.9ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 58.4ms
+Speed: 6.0ms preprocess, 58.4ms inference, 1.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 55.5ms
+Speed: 7.3ms preprocess, 55.5ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 43.4ms
+Speed: 7.3ms preprocess, 43.4ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 54.2ms
+Speed: 7.0ms preprocess, 54.2ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 54.9ms
+Speed: 5.2ms preprocess, 54.9ms inference, 7.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 47.3ms
+Speed: 7.0ms preprocess, 47.3ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 39.4ms
+Speed: 7.3ms preprocess, 39.4ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 45.0ms
+Speed: 7.7ms preprocess, 45.0ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 49.3ms
+Speed: 6.6ms preprocess, 49.3ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 44.7ms
+Speed: 8.1ms preprocess, 44.7ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 54.2ms
+Speed: 6.4ms preprocess, 54.2ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 49.0ms
+Speed: 6.6ms preprocess, 49.0ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 37 ants, 47.2ms
+Speed: 6.1ms preprocess, 47.2ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 57.2ms
+Speed: 6.0ms preprocess, 57.2ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 53.5ms
+Speed: 7.4ms preprocess, 53.5ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 38 ants, 56.0ms
+Speed: 6.8ms preprocess, 56.0ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 36 ants, 58.6ms
+Speed: 6.3ms preprocess, 58.6ms inference, 1.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 36 ants, 51.6ms
+Speed: 7.1ms preprocess, 51.6ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 55.9ms
+Speed: 6.1ms preprocess, 55.9ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 48.1ms
+Speed: 7.1ms preprocess, 48.1ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 54.1ms
+Speed: 5.4ms preprocess, 54.1ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 49.0ms
+Speed: 7.2ms preprocess, 49.0ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 51.9ms
+Speed: 6.9ms preprocess, 51.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 53.8ms
+Speed: 5.5ms preprocess, 53.8ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 47.0ms
+Speed: 6.1ms preprocess, 47.0ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 56.7ms
+Speed: 6.2ms preprocess, 56.7ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 51.0ms
+Speed: 5.0ms preprocess, 51.0ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 50.7ms
+Speed: 6.1ms preprocess, 50.7ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 54.0ms
+Speed: 7.2ms preprocess, 54.0ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 48.6ms
+Speed: 7.2ms preprocess, 48.6ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 51.2ms
+Speed: 7.2ms preprocess, 51.2ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 49.2ms
+Speed: 5.8ms preprocess, 49.2ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 56.1ms
+Speed: 6.3ms preprocess, 56.1ms inference, 1.7ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 53.2ms
+Speed: 7.2ms preprocess, 53.2ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 43.4ms
+Speed: 9.4ms preprocess, 43.4ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 53.6ms
+Speed: 6.0ms preprocess, 53.6ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 53.8ms
+Speed: 5.4ms preprocess, 53.8ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 55.1ms
+Speed: 4.9ms preprocess, 55.1ms inference, 7.0ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 52.9ms
+Speed: 5.5ms preprocess, 52.9ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 39 ants, 47.3ms
+Speed: 7.1ms preprocess, 47.3ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 41 ants, 42.2ms
+Speed: 6.9ms preprocess, 42.2ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 43.9ms
+Speed: 7.4ms preprocess, 43.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 39.9ms
+Speed: 6.7ms preprocess, 39.9ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 42.1ms
+Speed: 6.0ms preprocess, 42.1ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 47.3ms
+Speed: 6.5ms preprocess, 47.3ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 50.9ms
+Speed: 6.1ms preprocess, 50.9ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 42 ants, 44.7ms
+Speed: 6.2ms preprocess, 44.7ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 39.3ms
+Speed: 6.1ms preprocess, 39.3ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 45.2ms
+Speed: 6.0ms preprocess, 45.2ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 53.6ms
+Speed: 6.1ms preprocess, 53.6ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 46 ants, 44.8ms
+Speed: 7.0ms preprocess, 44.8ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 54.1ms
+Speed: 6.2ms preprocess, 54.1ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 51.2ms
+Speed: 5.8ms preprocess, 51.2ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 46 ants, 53.6ms
+Speed: 6.9ms preprocess, 53.6ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 46 ants, 45.8ms
+Speed: 5.5ms preprocess, 45.8ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 46 ants, 48.7ms
+Speed: 6.4ms preprocess, 48.7ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 51 ants, 53.8ms
+Speed: 6.9ms preprocess, 53.8ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 46 ants, 49.3ms
+Speed: 5.4ms preprocess, 49.3ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 51.5ms
+Speed: 6.9ms preprocess, 51.5ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 56.2ms
+Speed: 5.9ms preprocess, 56.2ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 48 ants, 51.8ms
+Speed: 7.3ms preprocess, 51.8ms inference, 1.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 49 ants, 51.5ms
+Speed: 6.5ms preprocess, 51.5ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 49 ants, 47.1ms
+Speed: 7.4ms preprocess, 47.1ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 52 ants, 53.6ms
+Speed: 6.6ms preprocess, 53.6ms inference, 1.6ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 53 ants, 39.8ms
+Speed: 9.0ms preprocess, 39.8ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 53 ants, 30.4ms
+Speed: 6.7ms preprocess, 30.4ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 35.7ms
+Speed: 5.5ms preprocess, 35.7ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 51 ants, 42.4ms
+Speed: 5.5ms preprocess, 42.4ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 46.7ms
+Speed: 7.4ms preprocess, 46.7ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 49 ants, 51.3ms
+Speed: 6.8ms preprocess, 51.3ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 47 ants, 49.8ms
+Speed: 6.7ms preprocess, 49.8ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 54 ants, 46.9ms
+Speed: 6.4ms preprocess, 46.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 46 ants, 51.8ms
+Speed: 5.9ms preprocess, 51.8ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 47 ants, 48.9ms
+Speed: 6.1ms preprocess, 48.9ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 49 ants, 51.1ms
+Speed: 5.6ms preprocess, 51.1ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 49 ants, 49.0ms
+Speed: 7.1ms preprocess, 49.0ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 46 ants, 58.0ms
+Speed: 6.2ms preprocess, 58.0ms inference, 2.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 47 ants, 42.7ms
+Speed: 5.7ms preprocess, 42.7ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 49.9ms
+Speed: 6.0ms preprocess, 49.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 43 ants, 40.2ms
+Speed: 7.2ms preprocess, 40.2ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 36 ants, 42.4ms
+Speed: 6.9ms preprocess, 42.4ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 35 ants, 32.8ms
+Speed: 6.5ms preprocess, 32.8ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 30.2ms
+Speed: 6.8ms preprocess, 30.2ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 29.4ms
+Speed: 5.8ms preprocess, 29.4ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 28.0ms
+Speed: 5.2ms preprocess, 28.0ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 46 ants, 27.6ms
+Speed: 3.8ms preprocess, 27.6ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 49 ants, 27.0ms
+Speed: 5.2ms preprocess, 27.0ms inference, 1.1ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 50 ants, 27.1ms
+Speed: 5.4ms preprocess, 27.1ms inference, 18.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 48 ants, 55.1ms
+Speed: 5.2ms preprocess, 55.1ms inference, 6.8ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 48 ants, 44.7ms
+Speed: 5.3ms preprocess, 44.7ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 49 ants, 46.6ms
+Speed: 7.0ms preprocess, 46.6ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 49 ants, 48.7ms
+Speed: 6.7ms preprocess, 48.7ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 49 ants, 47.7ms
+Speed: 6.9ms preprocess, 47.7ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 50 ants, 48.9ms
+Speed: 5.6ms preprocess, 48.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 48 ants, 44.2ms
+Speed: 6.4ms preprocess, 44.2ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 46 ants, 40.1ms
+Speed: 7.4ms preprocess, 40.1ms inference, 1.2ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 46 ants, 46.4ms
+Speed: 5.7ms preprocess, 46.4ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 50.9ms
+Speed: 5.8ms preprocess, 50.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 44 ants, 46.8ms
+Speed: 5.3ms preprocess, 46.8ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 45.0ms
+Speed: 6.4ms preprocess, 45.0ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 47 ants, 46.6ms
+Speed: 5.6ms preprocess, 46.6ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 47 ants, 43.2ms
+Speed: 6.6ms preprocess, 43.2ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 48 ants, 42.6ms
+Speed: 7.1ms preprocess, 42.6ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 40 ants, 48.9ms
+Speed: 6.9ms preprocess, 48.9ms inference, 1.4ms postprocess per image at shape (1, 3, 544, 1024)
+
+0: 544x1024 45 ants, 27.1ms
+Speed: 5.1ms preprocess, 27.1ms inference, 1.3ms postprocess per image at shape (1, 3, 544, 1024)
